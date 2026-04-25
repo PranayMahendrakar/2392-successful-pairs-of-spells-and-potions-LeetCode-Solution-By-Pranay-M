@@ -5,3 +5,4 @@
 - [2026-04-25T18:41:57Z] docs: improve inline documentation
 - [2026-04-25T17:03:33Z] fix: resolve edge case in input validation
 - [2026-04-25T12:18:07Z] perf: optimize loop for better performance
+- [2026-04-25T13:50:00Z] fix: handle null pointer exception
